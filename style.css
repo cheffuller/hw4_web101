@@ -1,0 +1,15 @@
+* {
+    border: 0;
+    padding: 0;
+}
+
+#mainheader {
+    height: 250px;
+    background-color: rgb(7, 248, 248);
+    display: flex;
+}
+
+h1 {
+    margin: auto;
+    color: white;
+}
